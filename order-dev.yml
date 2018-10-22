@@ -20,4 +20,4 @@ server:
 product:
   ribbon:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
-env: 2105
+env: 21052
