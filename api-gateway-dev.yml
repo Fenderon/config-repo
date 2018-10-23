@@ -11,5 +11,5 @@ zuul:
       #敏感头过滤 置空后则会传递cookie
       sensitiveHeaders:
   #排除某些路由
-  ignored-patterns:
-    - /**/env/print
+#   ignored-patterns:
+#     - /**/env/print
